@@ -34,7 +34,7 @@ Response:
 ```
 ### Make RPC calls From Client for Seeing Portfolio
 ```
-go run Client.go go run Client.go "tradeid":2
+go run Client.go "tradeid":2
 ```
 
 ```
