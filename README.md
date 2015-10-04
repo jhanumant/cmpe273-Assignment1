@@ -1,6 +1,7 @@
 # cmpe273-Assignment1
-# json-rpc-example
-Example JSON-RPC 
+# json-rpc-Trading Engine
+Example JSON-RPC .
+
 Stock Trading engine using YAHOO API
 
 ## Usage
